@@ -1,6 +1,7 @@
 Title: A Python program to manage the execution of software within Docker containers on a single machine
 
 Author: Terry Chun Wong
+
 Date: 7/27/2016
 
 Abstract
