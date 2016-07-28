@@ -16,11 +16,11 @@ Test cases to run the script with:<br />
 ./docker_containers.py "pwd" 2
 
 Notes:
-1. You need to provide a bash command and the number of containers for this script!
-2. You can only have up to 3 containers running simultaneously
-3. You can enter 0 as the first argument for infinite 'hello world' programs. ->  "while true; do echo hello world; sleep 1; done"
-4. The Docker image you are running is ubuntu for these containers
-5. The STDOUT/STDERR log files can be found in the /logs/ directory
+1. You need to provide a bash command and the number of containers for this script!<br />
+2. You can only have up to 3 containers running simultaneously.<br />
+3. You can enter 0 as the first argument for infinite 'hello world' programs. ->  "while true; do echo hello world; sleep 1; done"<br />
+4. The Docker image you are running is ubuntu for these containers.<br />
+5. The STDOUT/STDERR log files can be found in the /logs/ directory.<br />
 
 ### GitHub Repository Link:
 https://github.com/KungFuLucky7/docker_containers
