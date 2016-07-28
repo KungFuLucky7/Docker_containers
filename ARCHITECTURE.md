@@ -4,6 +4,7 @@ Author: Terry Chun Wong
 
 Date: 7/27/2016
 
+
 Abstract
 
 This project is a development for a Python program to manage the execution of software within Docker containers on a single machine. The script accepts a bash command and launches multiple containers to be run simultaneously and independently. The script can collect (STDOUT/STDERR) logs in real-time while the command runs and when the script ends to save them in a logs directory.
