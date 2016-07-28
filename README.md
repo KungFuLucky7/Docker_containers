@@ -15,7 +15,7 @@ Test cases to run the script with:<br />
 ./docker_containers.py 0 2<br />
 ./docker_containers.py "pwd" 2
 
-Notes:
+Notes:<br />
 1. You need to provide a bash command and the number of containers for this script!<br />
 2. You can only have up to 3 containers running simultaneously.<br />
 3. You can enter 0 as the first argument for infinite 'hello world' programs. ->  "while true; do echo hello world; sleep 1; done"<br />
