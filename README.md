@@ -10,10 +10,10 @@ A Python program to manage the execution of software within Docker containers on
 Run this script in this format on the command line:
 ./docker_containers.py [bash command] [number of containers that's less than or equal to 3]
 
-Test cases to run the script with:
-	   ./docker_containers.py "ls -l" 2
-		 ./docker_containers.py 0 2
-		 ./docker_containers.py "pwd" 2
+Test cases to run the script with:<br />
+./docker_containers.py "ls -l" 2<br />
+./docker_containers.py 0 2<br />
+./docker_containers.py "pwd" 2
 
 Notes:
 1. You need to provide a bash command and the number of containers for this script!
